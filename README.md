@@ -1,18 +1,44 @@
-# seo-off-page-notes
-My learning notes on off-page SEO techniques
-# Off-Page SEO Notes
+# Off-Page SEO Learning Notes
 
-## What is Off-Page SEO
-Off-page SEO refers to actions taken outside a website to improve rankings.
+This repository documents my understanding and practice of off-page SEO,
+with focus on ethical and sustainable techniques.
 
-## Techniques I am learning
-- Guest posting
-- Forum participation
-- Web 2.0 blogs
-- Profile backlinks
-- Content sharing
+---
 
-## Tools
+## Areas Covered
+
+### Link Building Methods
+- Guest posting (quality & relevance)
+- Niche edits
+- Contextual backlinks
+- Profile and citation links (limited use)
+
+### Content Promotion
+- Content syndication
+- Social sharing strategies
+- Brand mentions and outreach
+
+### Trust & Authority
+- Domain relevance
+- Anchor text distribution
+- Link velocity and natural growth
+
+### Tools & Analysis
 - Google Search Console
-- Ahrefs (learning)
-- Free backlink checkers
+- Ahrefs / SEMrush (learning-based usage)
+- Manual backlink audits
+
+---
+
+## Best Practices I Follow
+- White-hat only
+- No automated spam
+- Focus on value and relevance
+- Long-term ranking mindset
+
+---
+
+## Notes
+These are learning notes and observations, not guarantees or shortcuts.
+Search engine algorithms change frequently.
+
